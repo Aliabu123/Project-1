@@ -21,8 +21,4 @@ ability to go fast or slow
 jump higher
 
 Wireframes:
-![project 1   1](https://user-images.githubusercontent.com/119077836/209372709-87aebf9f-779d-46d6-a548-d93caec4ad58.jpg)
-![project 2](https://user-images.githubusercontent.com/119077836/209372738-c6efcbdb-f5c5-4a9c-a4c8-9be0272f93b2.jpg)
-![project 3](https://user-images.githubusercontent.com/119077836/209372750-60d893bb-6f9f-4b89-9a7
-![project 4](https://user-images.githubusercontent.com/119077836/209372785-59bfc81a-fbe4-4fa8-98a1-bdb3208e4e24.jpg)
-e-f8ddcfb96c8c.jpg)
+
