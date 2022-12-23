@@ -22,3 +22,7 @@ jump higher
 
 Wireframes:
 
+![project 1   1](https://user-images.githubusercontent.com/119077836/209373275-49046207-ca22-4446-a024-e375cd42471e.jpg)
+![project 2](https://user-images.githubusercontent.com/119077836/209373303-72e66e93-861b-4465-b1cd-13f129bb4234.jpg)
+![project 3](https://user-images.githubusercontent.com/119077836/209373316-18a3b46e-ca34-4da9-824f-f8bad304aadd.jpg)
+![project 4](https://user-images.githubusercontent.com/119077836/209373346-841a6de7-6caa-4898-8071-ebe4f252e5aa.jpg)
