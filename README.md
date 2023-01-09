@@ -1,4 +1,4 @@
-# Project-1 fINISH LINE
+# Project-1 Are you fast enough?
 
 Overvew: An box or an object is trying to get to the other side to the finish line without getting in trouble with the other objects. The goal of the game is your trying to get to the finish line by jumping over the objects. once you get to the finish line, the game is over.
 
